@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_ihub_integration_instance">
+    <sn_ihub_integration_instance action="DELETE">
+        <description>dd</description>
+        <integration_table>sys_data_source</integration_table>
+        <integration_type>data_import</integration_type>
+        <internal_name/>
+        <name>d</name>
+        <record_id>6e469da18304b210a340f929feaad385</record_id>
+        <sys_class_name>sn_ihub_integration_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-17 15:09:01</sys_created_on>
+        <sys_id>a6469da18304b210a340f929feaad384</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>d</sys_name>
+        <sys_package display_value="Gestao de Compras" source="x_793608_gestao_0">550285e183403610d1869cc0deaad3c6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gestao de Compras">550285e183403610d1869cc0deaad3c6</sys_scope>
+        <sys_update_name>sn_ihub_integration_instance_a6469da18304b210a340f929feaad384</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-17 15:09:01</sys_updated_on>
+    </sn_ihub_integration_instance>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Gestao de Compras">550285e183403610d1869cc0deaad3c6</application>
+        <file_path/>
+        <instance_id>2ae21bd4dbbef910ae4c9027c5961916</instance_id>
+        <instance_name>dev224481</instance_name>
+        <name>sn_ihub_integration_instance_a6469da18304b210a340f929feaad384</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_ihub_integration_instance"><sn_ihub_integration_instance action="INSERT_OR_UPDATE"><description>dd</description><integration_table>sys_data_source</integration_table><integration_type>data_import</integration_type><internal_name/><name>d</name><record_id>6e469da18304b210a340f929feaad385</record_id><sys_class_name>sn_ihub_integration_instance</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-09-17 15:09:01</sys_created_on><sys_id>a6469da18304b210a340f929feaad384</sys_id><sys_mod_count>1</sys_mod_count><sys_name>d</sys_name><sys_package display_value="Gestao de Compras" source="x_793608_gestao_0">550285e183403610d1869cc0deaad3c6</sys_package><sys_policy/><sys_scope display_value="Gestao de Compras">550285e183403610d1869cc0deaad3c6</sys_scope><sys_update_name>sn_ihub_integration_instance_a6469da18304b210a340f929feaad384</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-09-17 15:09:01</sys_updated_on></sn_ihub_integration_instance></record_update>]]></payload>
+        <payload_hash>-1284242197</payload_hash>
+        <record_name>d</record_name>
+        <reverted_from/>
+        <source>d63e4da98380b210a340f929feaad37b</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-17 15:09:01</sys_created_on>
+        <sys_id>26469da18304b210a340f929feaad3a9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1995838cdda0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-17 15:09:01</sys_updated_on>
+        <type>Data import</type>
+        <update_guid>aa469da1c404b2100c07fc9ff431a3a8</update_guid>
+        <update_guid_history>aa469da1c404b2100c07fc9ff431a3a8:-1284242197</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="d">c98691e18304b210a340f929feaad30c</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-17 15:10:01</sys_created_on>
+        <sys_db_object display_value="" name="sn_ihub_integration_instance">sn_ihub_integration_instance</sys_db_object>
+        <sys_id>2361295e85244150a99708de85985829</sys_id>
+        <sys_metadata>a6469da18304b210a340f929feaad384</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>d</sys_name>
+        <sys_package display_value="Gestao de Compras" source="x_793608_gestao_0">550285e183403610d1869cc0deaad3c6</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Gestao de Compras">550285e183403610d1869cc0deaad3c6</sys_scope>
+        <sys_scope_delete display_value="">a5cf940ab48a4dcc83b1849b9a3d8864</sys_scope_delete>
+        <sys_update_name>sn_ihub_integration_instance_a6469da18304b210a340f929feaad384</sys_update_name>
+        <sys_update_version display_value="sn_ihub_integration_instance_a6469da18304b210a340f929feaad384">26469da18304b210a340f929feaad3a9</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-17 15:10:01</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

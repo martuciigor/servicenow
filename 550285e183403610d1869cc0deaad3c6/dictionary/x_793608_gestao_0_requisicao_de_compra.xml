@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="84a799258304b210a340f929feaad3c4" extends="task" label="Requisição de Compra" max_length="40" name="x_793608_gestao_0_requisicao_de_compra" type="collection"/>
+</database>

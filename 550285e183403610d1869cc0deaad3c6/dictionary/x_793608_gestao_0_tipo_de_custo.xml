@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="33badd298304b210a340f929feaad329" label="Tipo de Custo" max_length="40" name="x_793608_gestao_0_tipo_de_custo" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Descricao" max_length="500" name="descricao" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Tipo" max_length="40" name="tipo" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Capex" sequence="0" value="Capex"/>
+                <element inactive_on_update="false" label="Opex" sequence="0" value="Opex"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Nome" max_length="40" name="nome" type="string"/>
+    </element>
+</database>

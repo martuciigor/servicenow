@@ -1,3 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element db_object_id="84a799258304b210a340f929feaad3c4" extends="task" label="Requisição de Compra" max_length="40" name="x_793608_gestao_0_requisicao_de_compra" type="collection"/>
+    <element db_object_id="84a799258304b210a340f929feaad3c4" extends="task" label="Requisição de Compra" max_length="40" name="x_793608_gestao_0_requisicao_de_compra" type="collection">
+        <element label="Centro de Custo" max_length="32" name="centro_de_custo" reference="cmn_cost_center" type="reference"/>
+        <element label="Departamento" max_length="32" name="departamento" reference="cmn_department" type="reference"/>
+        <element label="Escopo da contratação" max_length="500" name="escopo_da_contratacao" type="string"/>
+        <element label="Benefício da contratação" max_length="500" name="beneficio_da_contratacao" type="string"/>
+        <element label="Capex/Opex" max_length="32" name="capex_opex" reference="x_793608_gestao_0_tipo_de_custo" type="reference"/>
+        <element label="Pedido" max_length="40" name="pedido" type="string"/>
+        <element choice="1" label="Origem Financeira" max_length="40" name="origem_financeira" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Grown" sequence="1" value="2"/>
+                <element inactive_on_update="false" label="Outras" sequence="2" value="3"/>
+                <element inactive_on_update="false" label="KTLO" sequence="0" value="1"/>
+            </choice>
+        </element>
+        <element label="Demanda" max_length="32" name="demanda" reference="x_793608_gestao_0_demanda" type="reference"/>
+        <element label="Fornecedores" max_length="32" name="fornecedores" reference="core_company" type="reference"/>
+        <element label="NFe" max_length="40" name="nfe" type="string"/>
+    </element>
 </database>

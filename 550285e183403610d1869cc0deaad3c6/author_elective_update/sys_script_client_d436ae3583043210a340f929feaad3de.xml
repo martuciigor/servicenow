@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="DELETE">
+        <active>true</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description/>
+        <field/>
+        <global>true</global>
+        <isolate_script>true</isolate_script>
+        <messages/>
+        <name>teste2</name>
+        <order/>
+        <script><![CDATA[function onLoad() {
+   //Type appropriate comment here, and begin script below
+   
+}]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-18 15:37:00</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>d436ae3583043210a340f929feaad3de</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>teste2</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Gestao de Compras" source="x_793608_gestao_0">550285e183403610d1869cc0deaad3c6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gestao de Compras">550285e183403610d1869cc0deaad3c6</sys_scope>
+        <sys_update_name>sys_script_client_d436ae3583043210a340f929feaad3de</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-18 15:37:00</sys_updated_on>
+        <table>x_793608_gestao_0_tipo_de_custo</table>
+        <type>onLoad</type>
+        <ui_type>0</ui_type>
+        <view/>
+    </sys_script_client>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Gestao de Compras">550285e183403610d1869cc0deaad3c6</application>
+        <file_path/>
+        <instance_id>2ae21bd4dbbef910ae4c9027c5961916</instance_id>
+        <instance_name>dev224481</instance_name>
+        <name>sys_script_client_d436ae3583043210a340f929feaad3de</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_script_client"&gt;&lt;sys_script_client action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;applies_extended&gt;false&lt;/applies_extended&gt;&lt;condition/&gt;&lt;description/&gt;&lt;field/&gt;&lt;global&gt;true&lt;/global&gt;&lt;isolate_script&gt;true&lt;/isolate_script&gt;&lt;messages/&gt;&lt;name&gt;teste2&lt;/name&gt;&lt;order/&gt;&lt;script&gt;&lt;![CDATA[function onLoad() {
+   //Type appropriate comment here, and begin script below
+   
+}]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script_client&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2025-09-18 15:37:00&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;d436ae3583043210a340f929feaad3de&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;teste2&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="Gestao de Compras" source="x_793608_gestao_0"&gt;550285e183403610d1869cc0deaad3c6&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Gestao de Compras"&gt;550285e183403610d1869cc0deaad3c6&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_client_d436ae3583043210a340f929feaad3de&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2025-09-18 15:37:00&lt;/sys_updated_on&gt;&lt;table&gt;x_793608_gestao_0_tipo_de_custo&lt;/table&gt;&lt;type&gt;onLoad&lt;/type&gt;&lt;ui_type&gt;0&lt;/ui_type&gt;&lt;view/&gt;&lt;/sys_script_client&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-1264259269</payload_hash>
+        <record_name>teste2</record_name>
+        <reverted_from/>
+        <source>d63e4da98380b210a340f929feaad37b</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-18 15:37:00</sys_created_on>
+        <sys_id>9e46ae3583043210a340f929feaad3e4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1995d78c8d40000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-18 15:37:00</sys_updated_on>
+        <type>Client Script</type>
+        <update_guid>1646ae35df043210979abbf17a8263e4</update_guid>
+        <update_guid_history>1646ae35df043210979abbf17a8263e4:-1264259269</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-18 15:37:30</sys_created_on>
+        <sys_db_object display_value="" name="sys_script_client">sys_script_client</sys_db_object>
+        <sys_id>05b60cacbea742d2837d03e58320b2a4</sys_id>
+        <sys_metadata>d436ae3583043210a340f929feaad3de</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>teste2</sys_name>
+        <sys_package display_value="Gestao de Compras" source="x_793608_gestao_0">550285e183403610d1869cc0deaad3c6</sys_package>
+        <sys_parent display_value="Tipo de Custo">33badd298304b210a340f929feaad329</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Gestao de Compras">550285e183403610d1869cc0deaad3c6</sys_scope>
+        <sys_scope_delete display_value="">a5cf940ab48a4dcc83b1849b9a3d8864</sys_scope_delete>
+        <sys_update_name>sys_script_client_d436ae3583043210a340f929feaad3de</sys_update_name>
+        <sys_update_version display_value="sys_script_client_d436ae3583043210a340f929feaad3de">9e46ae3583043210a340f929feaad3e4</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-18 15:37:30</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

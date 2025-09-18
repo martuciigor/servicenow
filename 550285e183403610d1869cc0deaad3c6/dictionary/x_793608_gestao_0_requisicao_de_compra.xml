@@ -14,7 +14,6 @@
             </choice>
         </element>
         <element label="Demanda" max_length="32" name="demanda" reference="x_793608_gestao_0_demanda" type="reference"/>
-        <element label="Fornecedores" max_length="32" name="fornecedores" reference="core_company" type="reference"/>
         <element label="NFe" max_length="40" name="nfe" type="string"/>
     </element>
 </database>

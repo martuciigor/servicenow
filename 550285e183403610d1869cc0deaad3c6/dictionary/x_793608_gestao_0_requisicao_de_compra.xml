@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element audit="true" db_object_id="84a799258304b210a340f929feaad3c4" extends="task" label="Requisição de Compra" max_length="40" name="x_793608_gestao_0_requisicao_de_compra" type="collection">
+    <element audit="true" db_object_id="84a799258304b210a340f929feaad3c4" extends="task" label="Requisição de Compra" max_length="40" name="x_793608_gestao_0_requisicao_de_compra" text_index="true" type="collection">
         <element label="Centro de Custo" max_length="32" name="centro_de_custo" reference="cmn_cost_center" type="reference"/>
         <element label="Departamento" max_length="32" name="departamento" reference="cmn_department" type="reference"/>
         <element label="Escopo da contratação" max_length="500" name="escopo_da_contratacao" type="string"/>

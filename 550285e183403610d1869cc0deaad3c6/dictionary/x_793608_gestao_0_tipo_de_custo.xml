@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element db_object_id="33badd298304b210a340f929feaad329" label="Tipo de Custo" max_length="40" name="x_793608_gestao_0_tipo_de_custo" type="collection">
+    <element db_object_id="33badd298304b210a340f929feaad329" label="Tipo de Custo" max_length="40" name="x_793608_gestao_0_tipo_de_custo" text_index="true" type="collection">
         <element attributes="edge_encryption_enabled=true" label="Descricao" max_length="500" name="descricao" type="string"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Tipo" max_length="40" name="tipo" type="choice">
             <choice>

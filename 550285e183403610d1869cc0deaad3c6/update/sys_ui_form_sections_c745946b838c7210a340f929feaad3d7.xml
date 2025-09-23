@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="c745946b838c7210a340f929feaad3d7" sys_domain="global" table="x_793608_gestao_0_requisicao_de_compra" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-09-23 15:32:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>cf45d46b838c7210a340f929feaad3e2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_793608_gestao_0_requisicao_de_compra" name="x_793608_gestao_0_requisicao_de_compra" sys_domain="global" view="7235506b0e8c7210f16d176004fc6c7a">c745946b838c7210a340f929feaad3d7</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_793608_gestao_0_requisicao_de_compra" sys_domain="global" view="7235506b0e8c7210f16d176004fc6c7a">0745946b838c7210a340f929feaad3db</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-09-23 15:32:56</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-09-23 15:32:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0b45d46b838c7210a340f929feaad3ed</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_793608_gestao_0_requisicao_de_compra" name="x_793608_gestao_0_requisicao_de_compra" sys_domain="global" view="7235506b0e8c7210f16d176004fc6c7a">c745946b838c7210a340f929feaad3d7</sys_ui_form>
+            <sys_ui_section caption="Detalhamento do Escopo" display_value="Detalhamento do Escopo" name="x_793608_gestao_0_requisicao_de_compra" sys_domain="global" view="7235506b0e8c7210f16d176004fc6c7a">c345d46b838c7210a340f929feaad3ec</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-09-23 15:32:56</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_793608_gestao_0_requisicao_de_compra</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-09-23 15:32:55</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c745946b838c7210a340f929feaad3d7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_793608_gestao_0_requisicao_de_compra</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Gestao de Compras" source="x_793608_gestao_0">550285e183403610d1869cc0deaad3c6</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Gestao de Compras">550285e183403610d1869cc0deaad3c6</sys_scope>
+            <sys_update_name>sys_ui_form_sections_c745946b838c7210a340f929feaad3d7</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-09-23 15:32:55</sys_updated_on>
+            <sys_user/>
+            <view display_value="Workspace Gestao de Compras Workspace 0" name="workspace-gestao-de-compras-workspace-0">7235506b0e8c7210f16d176004fc6c7a</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

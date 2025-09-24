@@ -2,7 +2,7 @@
     <par_dashboard_widget action="INSERT_OR_UPDATE">
         <canvas display_value="">a745186b838c7210a340f929feaad3e3</canvas>
         <component display_value="List">7ff373544303121093711347efb8f23c</component>
-        <component_props>{"dataSources":[{"allowRealTime":true,"dataCategories":["trend","group","simple"],"filterQuery":"active=true^assigned_toDYNAMIC90d1921e5f510100a9ad2572f2b477fe","id":"b745586b838c7210a340f929feaad36f","isDatabaseView":false,"preferredVisualizations":[],"sourceType":"table","tableOrViewName":"x_793608_gestao_0_requisicao_de_compra"}],"additionalGroupByConfig":[],"allowAdditionalGroupByPerMetric":false,"componentId":"","contextMenuActions":[],"description":"","emptyStateAlignment":"vertical-centered","emptyStateContent":"There are no scores available for the selected criteria. Contact your admin for more info.","emptyStateHeading":"No data available.","emptyStateHeadingLevel":3,"emptyStateIllustration":"no-data","enableCustomEmptyState":false,"enableDrilldown":true,"enableRealTimeUpdate":false,"filterConfigurations":"@state.parFilters","headingLevel":2,"metrics":[{"aggregateFunction":"COUNT","axisId":"primary","dataSource":"dGFibGVpbmNpZGVudDE3MzYzNjA0MzU5NjM=","id":"ZEdGaWJHVnBibU5wWkdWdWRERTNNell6TmpBME16VTVOak09MTczNjM2MDQzNjgwMQ==","numberFormat":{"customFormat":false}}],"showAdditionalGroupBySelector":false,"showFilterIcon":true,"showHeaderSeparator":false,"showHeader":true,"showLoadingIndicator":false,"wrapTitle":false,"parFilter":"","parFilterConfig":[],"allowListPagination":true,"columnLimit":0,"limit":10,"maxCharLimit":4000,"columnPreferenceKey":"","bareBorder":false,"wrapCellContent":"useLineBreaksUserPref","showPersonalization":false,"hideDotwalk":false,"showColumnReorder":false,"showColumnGrouping":false,"showColumnResizing":false,"showColumnFiltering":false,"showColumnSorting":true,"followFilters":true,"groupByField":"","showLinks":true,"showViewAll":true,"showInlineEditing":false,"table":"x_793608_gestao_0_requisicao_de_compra","headerTitle":"My Work","columns":""}</component_props>
+        <component_props>{"dataSources":[{"isDatabaseView":false,"allowRealTime":true,"label":"Requisição de Compra","sourceType":"table","tableOrViewName":"x_793608_gestao_0_requisicao_de_compra","filterQuery":"","preferredVisualizations":["d24d53f60350de7a652caf3188a46ed2"],"id":"b745586b838c7210a340f929feaad36f","dataCategories":["trend","group","simple"]}],"additionalGroupByConfig":[],"allowAdditionalGroupByPerMetric":false,"componentId":"itu3v0b7","contextMenuActions":[],"description":"","emptyStateAlignment":"vertical-centered","emptyStateContent":"There are no scores available for the selected criteria. Contact your admin for more info.","emptyStateHeading":"No data available.","emptyStateHeadingLevel":3,"emptyStateIllustration":"no-data","enableCustomEmptyState":false,"enableDrilldown":true,"enableRealTimeUpdate":false,"filterConfigurations":"@state.parFilters","headingLevel":2,"metrics":[{"aggregateFunction":"COUNT","axisId":"primary","dataSource":"dGFibGVpbmNpZGVudDE3MzYzNjA0MzU5NjM=","id":"ZEdGaWJHVnBibU5wWkdWdWRERTNNell6TmpBME16VTVOak09MTczNjM2MDQzNjgwMQ==","numberFormat":{"customFormat":false}}],"showAdditionalGroupBySelector":false,"showFilterIcon":true,"showHeaderSeparator":false,"showHeader":true,"showLoadingIndicator":false,"wrapTitle":false,"parFilter":"","parFilterConfig":[],"allowListPagination":true,"columnLimit":0,"limit":10,"maxCharLimit":4000,"columnPreferenceKey":"","bareBorder":false,"wrapCellContent":"useLineBreaksUserPref","showPersonalization":false,"hideDotwalk":false,"showColumnReorder":false,"showColumnGrouping":false,"showColumnResizing":false,"showColumnFiltering":false,"showColumnSorting":true,"followFilters":true,"showLinks":true,"showViewAll":true,"showInlineEditing":false,"table":"x_793608_gestao_0_requisicao_de_compra","headerTitle":"Lista RCs","columns":""}</component_props>
         <h>18</h>
         <name/>
         <stored_component/>
@@ -12,7 +12,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>ab45586b838c7210a340f929feaad30e</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>6</sys_mod_count>
         <sys_name/>
         <sys_overrides/>
         <sys_package display_value="Gestao de Compras" source="x_793608_gestao_0">550285e183403610d1869cc0deaad3c6</sys_package>
@@ -20,11 +20,11 @@
         <sys_scope display_value="Gestao de Compras">550285e183403610d1869cc0deaad3c6</sys_scope>
         <sys_update_name>par_dashboard_widget_ab45586b838c7210a340f929feaad30e</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-09-23 15:53:22</sys_updated_on>
+        <sys_updated_on>2025-09-24 12:40:41</sys_updated_on>
         <visualization/>
         <w>48</w>
         <widget_props/>
         <x>0</x>
-        <y>25</y>
+        <y>38</y>
     </par_dashboard_widget>
 </record_update>

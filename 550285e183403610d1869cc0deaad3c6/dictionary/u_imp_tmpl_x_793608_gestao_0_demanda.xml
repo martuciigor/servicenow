@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="191fb0bb83403210a340f929feaad3ed" extends="sys_import_set_row" label="Imp Tmpl X 793608 Gestao 0 Demanda" max_length="40" name="u_imp_tmpl_x_793608_gestao_0_demanda" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Descrição" label="Descrição" max_length="73" name="u_rplcd_n_ascii_1294927794" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Gestor Solicitante" label="Gestor Solicitante" max_length="40" name="u_gestor_solicitante" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Título" label="Título" max_length="46" name="u_rplcd_n_ascii_590496388" type="string"/>
+    </element>
+</database>

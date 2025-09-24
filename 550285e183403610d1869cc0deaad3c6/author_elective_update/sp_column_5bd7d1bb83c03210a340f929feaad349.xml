@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_column">
+    <sp_column action="DELETE">
+        <class_name/>
+        <order>1</order>
+        <semantic_tag/>
+        <size>2</size>
+        <size_lg/>
+        <size_sm/>
+        <size_xs/>
+        <sp_row display_value="1">1fd791bb83c03210a340f929feaad3a8</sp_row>
+        <sys_class_name>sp_column</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-24 15:02:14</sys_created_on>
+        <sys_id>5bd7d1bb83c03210a340f929feaad349</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>1</sys_name>
+        <sys_package display_value="Gestao de Compras" source="x_793608_gestao_0">550285e183403610d1869cc0deaad3c6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gestao de Compras">550285e183403610d1869cc0deaad3c6</sys_scope>
+        <sys_update_name>sp_column_5bd7d1bb83c03210a340f929feaad349</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-24 15:05:01</sys_updated_on>
+    </sp_column>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Gestao de Compras">550285e183403610d1869cc0deaad3c6</application>
+        <file_path/>
+        <instance_id>2ae21bd4dbbef910ae4c9027c5961916</instance_id>
+        <instance_name>dev224481</instance_name>
+        <name>sp_column_5bd7d1bb83c03210a340f929feaad349</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_column"><sp_column action="INSERT_OR_UPDATE"><class_name/><order>1</order><semantic_tag/><size>2</size><size_lg/><size_sm/><size_xs/><sp_row display_value="1">1fd791bb83c03210a340f929feaad3a8</sp_row><sys_class_name>sp_column</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-09-24 15:02:14</sys_created_on><sys_id>5bd7d1bb83c03210a340f929feaad349</sys_id><sys_mod_count>4</sys_mod_count><sys_name>1</sys_name><sys_package display_value="Gestao de Compras" source="x_793608_gestao_0">550285e183403610d1869cc0deaad3c6</sys_package><sys_policy/><sys_scope display_value="Gestao de Compras">550285e183403610d1869cc0deaad3c6</sys_scope><sys_update_name>sp_column_5bd7d1bb83c03210a340f929feaad349</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-09-24 15:05:01</sys_updated_on></sp_column></record_update>]]></payload>
+        <payload_hash>-1730319949</payload_hash>
+        <record_name>1</record_name>
+        <reverted_from/>
+        <source>d63e4da98380b210a340f929feaad37b</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-24 15:05:01</sys_created_on>
+        <sys_id>048851fb83c03210a340f929feaad31e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1997c41a6df0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-24 15:05:01</sys_updated_on>
+        <type>Column</type>
+        <update_guid>488851fb50c032108e0cf5a53bc74f1d</update_guid>
+        <update_guid_history>488851fb50c032108e0cf5a53bc74f1d:-1730319949,ef7811fb87c032102f5763cab9da4bd1:-311686573,bd7811fbf5c03210258c432ca55d6f3b:1106946803,5d78ddbbbac03210991b21775db460f7:-1769387117,5fd7d1bbb8c03210b07bc1a310b4724a:-350753741</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="1">418851fb83c03210a340f929feaad326</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-24 15:05:05</sys_created_on>
+        <sys_db_object display_value="" name="sp_column">sp_column</sys_db_object>
+        <sys_id>48dbf9e6d3c6440c9515b7f7e7c8ffa4</sys_id>
+        <sys_metadata>5bd7d1bb83c03210a340f929feaad349</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>1</sys_name>
+        <sys_package display_value="Gestao de Compras" source="x_793608_gestao_0">550285e183403610d1869cc0deaad3c6</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Gestao de Compras">550285e183403610d1869cc0deaad3c6</sys_scope>
+        <sys_scope_delete display_value="">a5cf940ab48a4dcc83b1849b9a3d8864</sys_scope_delete>
+        <sys_update_name>sp_column_5bd7d1bb83c03210a340f929feaad349</sys_update_name>
+        <sys_update_version display_value="sp_column_5bd7d1bb83c03210a340f929feaad349">048851fb83c03210a340f929feaad31e</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-24 15:05:05</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

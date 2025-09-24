@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_row">
+    <sp_row action="DELETE">
+        <class_name/>
+        <order>1</order>
+        <semantic_tag/>
+        <sp_column/>
+        <sp_container display_value="Sandbox - Container 2">97c751bb83c03210a340f929feaad31b</sp_container>
+        <sys_class_name>sp_row</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-24 15:02:06</sys_created_on>
+        <sys_id>9dd791bb83c03210a340f929feaad3a0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>1</sys_name>
+        <sys_package display_value="Gestao de Compras" source="x_793608_gestao_0">550285e183403610d1869cc0deaad3c6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gestao de Compras">550285e183403610d1869cc0deaad3c6</sys_scope>
+        <sys_update_name>sp_row_9dd791bb83c03210a340f929feaad3a0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-24 15:02:06</sys_updated_on>
+    </sp_row>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Gestao de Compras">550285e183403610d1869cc0deaad3c6</application>
+        <file_path/>
+        <instance_id>2ae21bd4dbbef910ae4c9027c5961916</instance_id>
+        <instance_name>dev224481</instance_name>
+        <name>sp_row_9dd791bb83c03210a340f929feaad3a0</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_row"><sp_row action="INSERT_OR_UPDATE"><class_name/><order>1</order><semantic_tag/><sp_column/><sp_container display_value="Sandbox - Container 2">97c751bb83c03210a340f929feaad31b</sp_container><sys_class_name>sp_row</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-09-24 15:02:06</sys_created_on><sys_id>9dd791bb83c03210a340f929feaad3a0</sys_id><sys_mod_count>0</sys_mod_count><sys_name>1</sys_name><sys_package display_value="Gestao de Compras" source="x_793608_gestao_0">550285e183403610d1869cc0deaad3c6</sys_package><sys_policy/><sys_scope display_value="Gestao de Compras">550285e183403610d1869cc0deaad3c6</sys_scope><sys_update_name>sp_row_9dd791bb83c03210a340f929feaad3a0</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-09-24 15:02:06</sys_updated_on></sp_row></record_update>]]></payload>
+        <payload_hash>-1345393136</payload_hash>
+        <record_name>1</record_name>
+        <reverted_from/>
+        <source>d63e4da98380b210a340f929feaad37b</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-24 15:02:06</sys_created_on>
+        <sys_id>d5d791bb83c03210a340f929feaad3a3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1997c3efb160000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-24 15:02:06</sys_updated_on>
+        <type>Row</type>
+        <update_guid>5dd791bb11c03210d9a6907d217a4da2</update_guid>
+        <update_guid_history>5dd791bb11c03210d9a6907d217a4da2:-1345393136</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="1">4688ddb783c03210a340f929feaad32c</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-24 15:05:09</sys_created_on>
+        <sys_db_object display_value="" name="sp_row">sp_row</sys_db_object>
+        <sys_id>067cabd8a4e14b749b8be9de672783a4</sys_id>
+        <sys_metadata>9dd791bb83c03210a340f929feaad3a0</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>1</sys_name>
+        <sys_package display_value="Gestao de Compras" source="x_793608_gestao_0">550285e183403610d1869cc0deaad3c6</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Gestao de Compras">550285e183403610d1869cc0deaad3c6</sys_scope>
+        <sys_scope_delete display_value="">a5cf940ab48a4dcc83b1849b9a3d8864</sys_scope_delete>
+        <sys_update_name>sp_row_9dd791bb83c03210a340f929feaad3a0</sys_update_name>
+        <sys_update_version display_value="sp_row_9dd791bb83c03210a340f929feaad3a0">d5d791bb83c03210a340f929feaad3a3</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-24 15:05:09</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

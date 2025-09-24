@@ -2,7 +2,7 @@
     <par_dashboard_widget action="INSERT_OR_UPDATE">
         <canvas display_value="">a745186b838c7210a340f929feaad3e3</canvas>
         <component display_value="Rich text">2d56f06d55f46bbd4e79b5e624beb940</component>
-        <component_props>{"html":"&lt;p&gt;Teste Texto&lt;/p&gt;"}</component_props>
+        <component_props>{"html":"&lt;p&gt;&lt;strong&gt;CAPEX (Capital Expenditure):&lt;/strong&gt; S&amp;atilde;o os gastos com bens dur&amp;aacute;veis ou investimentos de longo prazo, como a compra de m&amp;aacute;quinas, equipamentos ou constru&amp;ccedil;&amp;atilde;o de um pr&amp;eacute;dio. Ou seja, &amp;eacute; o dinheiro usado para adquirir ou melhorar ativos que v&amp;atilde;o durar bastante tempo.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;OPEX (Operational Expenditure):&lt;/strong&gt; S&amp;atilde;o os gastos do dia a dia de uma empresa para manter suas opera&amp;ccedil;&amp;otilde;es funcionando, como contas de luz, sal&amp;aacute;rios, aluguel e manuten&amp;ccedil;&amp;atilde;o. Esses custos s&amp;atilde;o recorrentes e geralmente de curto prazo.&lt;/p&gt;"}</component_props>
         <h>13</h>
         <name/>
         <stored_component/>
@@ -12,7 +12,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>e6f99cef838c7210a340f929feaad3ad</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name/>
         <sys_overrides/>
         <sys_package display_value="Gestao de Compras" source="x_793608_gestao_0">550285e183403610d1869cc0deaad3c6</sys_package>
@@ -20,7 +20,7 @@
         <sys_scope display_value="Gestao de Compras">550285e183403610d1869cc0deaad3c6</sys_scope>
         <sys_update_name>par_dashboard_widget_e6f99cef838c7210a340f929feaad3ad</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-09-23 15:53:22</sys_updated_on>
+        <sys_updated_on>2025-09-24 12:32:52</sys_updated_on>
         <visualization/>
         <w>21</w>
         <widget_props/>

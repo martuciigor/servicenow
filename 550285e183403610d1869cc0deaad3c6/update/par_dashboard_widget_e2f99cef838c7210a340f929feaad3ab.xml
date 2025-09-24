@@ -2,7 +2,7 @@
     <par_dashboard_widget action="INSERT_OR_UPDATE">
         <canvas display_value="">a745186b838c7210a340f929feaad3e3</canvas>
         <component display_value="Image">15fe506403f8a98575b6df59008ea8f1</component>
-        <component_props>{"src":"/now-image-placeholder.jpg","sources":[],"fit":"fill","position":"center center","alt":"","configAria":"{\"link\":{}}","supportRtl":false}</component_props>
+        <component_props>{"src":"/welcome_guided_setup.png","sources":[],"fit":"fill","position":"center center","alt":"","configAria":"{\"link\":{}}","supportRtl":false}</component_props>
         <h>13</h>
         <name/>
         <stored_component/>
@@ -12,7 +12,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>e2f99cef838c7210a340f929feaad3ab</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name/>
         <sys_overrides/>
         <sys_package display_value="Gestao de Compras" source="x_793608_gestao_0">550285e183403610d1869cc0deaad3c6</sys_package>
@@ -20,7 +20,7 @@
         <sys_scope display_value="Gestao de Compras">550285e183403610d1869cc0deaad3c6</sys_scope>
         <sys_update_name>par_dashboard_widget_e2f99cef838c7210a340f929feaad3ab</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-09-23 15:53:22</sys_updated_on>
+        <sys_updated_on>2025-09-24 12:28:07</sys_updated_on>
         <visualization/>
         <w>27</w>
         <widget_props/>

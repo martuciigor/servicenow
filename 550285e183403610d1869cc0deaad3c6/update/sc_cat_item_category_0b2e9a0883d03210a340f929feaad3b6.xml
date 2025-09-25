@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Demandas">0ed7d20083d03210a340f929feaad3f2</sc_cat_item>
+        <sc_category display_value="Categoria">4201d6c483903210a340f929feaad373</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-25 14:47:54</sys_created_on>
+        <sys_id>0b2e9a0883d03210a340f929feaad3b6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Categoria.Demandas</sys_name>
+        <sys_package display_value="Gestao de Compras" source="x_793608_gestao_0">550285e183403610d1869cc0deaad3c6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gestao de Compras">550285e183403610d1869cc0deaad3c6</sys_scope>
+        <sys_update_name>sc_cat_item_category_0b2e9a0883d03210a340f929feaad3b6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-25 14:47:54</sys_updated_on>
+    </sc_cat_item_category>
+</record_update>

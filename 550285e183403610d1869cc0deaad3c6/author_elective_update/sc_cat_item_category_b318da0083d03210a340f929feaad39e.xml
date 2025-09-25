@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="Demandas">0ed7d20083d03210a340f929feaad3f2</sc_cat_item>
+        <sc_category display_value="Categoria">4201d6c483903210a340f929feaad373</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-25 14:21:29</sys_created_on>
+        <sys_id>b318da0083d03210a340f929feaad39e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Categoria.Demandas</sys_name>
+        <sys_package display_value="Gestao de Compras" source="x_793608_gestao_0">550285e183403610d1869cc0deaad3c6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gestao de Compras">550285e183403610d1869cc0deaad3c6</sys_scope>
+        <sys_update_name>sc_cat_item_category_b318da0083d03210a340f929feaad39e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-25 14:21:29</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Gestao de Compras">550285e183403610d1869cc0deaad3c6</application>
+        <file_path/>
+        <instance_id>2ae21bd4dbbef910ae4c9027c5961916</instance_id>
+        <instance_name>dev224481</instance_name>
+        <name>sc_cat_item_category_b318da0083d03210a340f929feaad39e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="INSERT_OR_UPDATE"><sc_cat_item display_value="Demandas">0ed7d20083d03210a340f929feaad3f2</sc_cat_item><sc_category display_value="Categoria">4201d6c483903210a340f929feaad373</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-09-25 14:21:29</sys_created_on><sys_id>b318da0083d03210a340f929feaad39e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Categoria.Demandas</sys_name><sys_package display_value="Gestao de Compras" source="x_793608_gestao_0">550285e183403610d1869cc0deaad3c6</sys_package><sys_policy/><sys_scope display_value="Gestao de Compras">550285e183403610d1869cc0deaad3c6</sys_scope><sys_update_name>sc_cat_item_category_b318da0083d03210a340f929feaad39e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-09-25 14:21:29</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>-60612020</payload_hash>
+        <record_name>Categoria.Demandas</record_name>
+        <reverted_from/>
+        <source>d63e4da98380b210a340f929feaad37b</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-25 14:21:29</sys_created_on>
+        <sys_id>0428da0083d03210a340f929feaad3bc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>199814027ab0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-25 14:21:29</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>8428da0074d032104bb6716ca2de4abb</update_guid>
+        <update_guid_history>8428da0074d032104bb6716ca2de4abb:-60612020</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Categoria.Demandas">09385e0083d03210a340f929feaad372</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-25 14:21:50</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>f966cfdf26864e9ba5233be137396921</sys_id>
+        <sys_metadata>b318da0083d03210a340f929feaad39e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Categoria.Demandas</sys_name>
+        <sys_package display_value="Gestao de Compras" source="x_793608_gestao_0">550285e183403610d1869cc0deaad3c6</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Gestao de Compras">550285e183403610d1869cc0deaad3c6</sys_scope>
+        <sys_scope_delete display_value="">a5cf940ab48a4dcc83b1849b9a3d8864</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_b318da0083d03210a340f929feaad39e</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_b318da0083d03210a340f929feaad39e">0428da0083d03210a340f929feaad3bc</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-25 14:21:50</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="announcement">
+    <announcement action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <click_target>page</click_target>
+        <details/>
+        <details_link_text/>
+        <details_page display_value="gc_index">985c9dff83c03210a340f929feaad375</details_page>
+        <details_url/>
+        <dismiss_options>dismissible</dismiss_options>
+        <display_first>false</display_first>
+        <display_style display_value="Normal">704dedd6e7d4030075c2a117c2f6a91b</display_style>
+        <from>2025-09-25 12:32:10</from>
+        <glyph>empty</glyph>
+        <glyph_alt_text/>
+        <name>Teste Announcement</name>
+        <public>true</public>
+        <roles/>
+        <show_for_unauthenticated_users_only>false</show_for_unauthenticated_users_only>
+        <summary>Teste Aviso</summary>
+        <sys_class_name>announcement</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-25 12:32:59</sys_created_on>
+        <sys_id>ae0f3d0083503210a340f929feaad3d9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Teste Announcement</sys_name>
+        <sys_package display_value="Gestao de Compras" source="x_793608_gestao_0">550285e183403610d1869cc0deaad3c6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gestao de Compras">550285e183403610d1869cc0deaad3c6</sys_scope>
+        <sys_update_name>announcement_ae0f3d0083503210a340f929feaad3d9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-25 12:32:59</sys_updated_on>
+        <title>Aviso</title>
+        <to>2025-09-26 12:32:18</to>
+        <type>67eaf134e7a3320075c2a117c2f6a9d2,52fa79f8e763320075c2a117c2f6a991</type>
+    </announcement>
+    <sys_translated_text action="delete_multiple" query="documentkey=ae0f3d0083503210a340f929feaad3d9"/>
+</record_update>

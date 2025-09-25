@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_sp_portal_catalog">
+    <m2m_sp_portal_catalog action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <order>100</order>
+        <sc_catalog display_value="Gestao de Compras">add092c483903210a340f929feaad3a6</sc_catalog>
+        <sp_portal display_value="Gestão de Compras">ad5d853f83803210a340f929feaad3d4</sp_portal>
+        <sys_class_name>m2m_sp_portal_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-25 14:51:18</sys_created_on>
+        <sys_id>70fe1e4883d03210a340f929feaad37b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Gestao de Compras.Gestão de Compras</sys_name>
+        <sys_package display_value="Gestao de Compras" source="x_793608_gestao_0">550285e183403610d1869cc0deaad3c6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gestao de Compras">550285e183403610d1869cc0deaad3c6</sys_scope>
+        <sys_update_name>m2m_sp_portal_catalog_70fe1e4883d03210a340f929feaad37b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-25 14:51:18</sys_updated_on>
+    </m2m_sp_portal_catalog>
+</record_update>
